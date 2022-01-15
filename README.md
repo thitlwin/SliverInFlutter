@@ -14,3 +14,7 @@ An app to view fun recipes
   - Run `flutter build apk` to generate APK file.
   - Run `flutter build ios` to package iOS app.
   # SliverInFlutter
+
+
+### Reference
+https://www.raywenderlich.com/19539821-slivers-in-flutter-getting-started#toc-anchor-001
